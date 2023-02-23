@@ -1,20 +1,3 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**Jayash-Gupta/Jayash-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Jayash Gupta</h1>
 <h3 align="center">frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/3052691/screenshots/6178918/coding.gif">
@@ -47,4 +30,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayash-gupta&show_icons=true&locale=en" alt="jayash-gupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayash-gupta&" alt="jayash-gupta" /></p>
-![Snake animation](https://github.com/Jayash-Gupta/Jayash-Gupta/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Jayash-Gupta/Jayash-Gupta/blob/output/github-contribution-grid-snake.svg)
