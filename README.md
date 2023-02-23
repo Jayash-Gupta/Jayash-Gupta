@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayash-gupta&show_icons=true&locale=en" alt="jayash-gupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayash-gupta&" alt="jayash-gupta" /></p>
-<!-- ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/jayash-gupta/jayash-gupta/blob/output/github-contribution-grid-snake.svg)
