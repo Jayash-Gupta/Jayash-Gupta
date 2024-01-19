@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jayash Gupta</h1>
-<h3 align="center">frontend developer</h3>
+<!-- <h3 align="center">frontend developer</h3> -->
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/3052691/screenshots/6178918/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jayash-Gupta&label=Profile%20views&color=0e75b6&style=flat" alt="Jayash-Gupta" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node**
 
 - 📫 How to reach me **er.jayashgupta@gmail.com**
 
